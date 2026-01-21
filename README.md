@@ -56,7 +56,7 @@ mindset: Long-term consistency beats short-term intensity
 
 ## 📊 GITHUB PERFORMANCE
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarsMwau&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarsMwau&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsMwau&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
